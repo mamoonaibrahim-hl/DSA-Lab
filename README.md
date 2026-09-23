@@ -1,3 +1,9 @@
-# DSA-Lab1
+# DSA-Lab
+## LAB1
 Revisiting C++, Introduction to Version Control &amp; Writing Test Cases in C++
-DSA stands for Data Stuctures and Algorithms
+
+## LAB2
+Pointers and dynamic memory allocation
+
+## LAB3
+Linked list
